@@ -1,4 +1,4 @@
-Git is a version control system. really nigger?
+Git is a version control system. really
 Git is free software.
 git tracks changes
-�ǵ��أ�
+ÊÇµÄÄØ£¡

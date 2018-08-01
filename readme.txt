@@ -2,4 +2,8 @@
 Git is free software.
 git tracks changes
 ÊÇµÄÄØ£¡
-aND NAIVE
+<<<<<<< HEAD
+and NAIVE
+=======
+and NAIVE
+>>>>>>> feature1
